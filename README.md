@@ -2,4 +2,4 @@
 
 A simple Dice Game using Js and dom manipulation
  
- **Visit : **[Livedemo](https://ganapathyda.github.io/Dicee-game-using-javascript/)
+ **Visit :** [Livedemo](https://ganapathyda.github.io/Dicee-game-using-javascript/)
